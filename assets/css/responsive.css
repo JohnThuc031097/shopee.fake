@@ -68,6 +68,7 @@
     z-index: 20;
     position: fixed;
     top: 0;
+    width: 100%;
   }
   .header__navbar--top {
     height: 1.875rem;
