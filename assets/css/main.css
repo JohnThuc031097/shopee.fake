@@ -1140,6 +1140,7 @@
 .category-mobile__list {
   background-color: #fff;
   list-style: none;
+  height: 1000px;
 }
 .category-mobile__item-link {
   display: flex;
