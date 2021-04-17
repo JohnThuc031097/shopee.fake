@@ -18,15 +18,11 @@
 .grid {
   display: block;
   width: 100%;
-  max-width: 98%;
   margin: 0 auto;
   padding: 0;
 }
 .grid.full {
-  display: block;
   max-width: 100%;
-  margin: 0 auto;
-  padding: 0;
 }
 /* Row */
 .grid .row {
